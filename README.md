@@ -21,7 +21,7 @@ care and feeding of factors.
 You can install foofactors like so:
 
 ``` r
-devtools::install_github("yuyanguo/foofactors.yg")
+devtools::install_github("yuyanguo/foofactors")
 ```
 
 ## Quick demo
